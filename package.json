@@ -1,0 +1,16 @@
+{
+    "name": "com.nb.rosbridgelib",
+    "version": "1.3.0",
+    "displayName": "ROSBridgeLib",
+    "description": "ROSBridge Suite Websocket client",
+    "unity": "2019.1",
+    "dependencies": {
+    },
+    "author": {
+        "name": "NB",
+        "email": "noirb@users.noreply.github.com"
+    },
+    "keywords": [
+        "ros", "websocket"
+    ]
+}
